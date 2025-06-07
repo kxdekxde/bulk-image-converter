@@ -31,8 +31,8 @@ If you don't want to install the stuff below to use the script you can download 
 
 `Output Method`: You can select between two options:
 
-        - *Create new folder for converted images*: With this option the converter creates a new folder "converted_to_{selected format}" in the same folder where the images to be converted are located, and proceeds to save the converted images there.
-        - *Replace original images with converted*: With this option the converter proceeds to convert and save the converted images in the same location than the original images, deleting the original images leaving only the converted ones after they were converted successfully.
+    - *Create new folder for converted images*: With this option the converter creates a new folder "converted_to_{selected format}" in the same folder where the images to be converted are located, and proceeds to save the converted images there.
+    - *Replace original images with converted*: With this option the converter proceeds to convert and save the converted images in the same location than the original images, deleting the original images leaving only the converted ones after they were converted successfully.
 
 `Convert`: Start the conversion.
 
